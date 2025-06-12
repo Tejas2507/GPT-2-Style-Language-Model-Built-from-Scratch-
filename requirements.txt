@@ -1,0 +1,9 @@
+torch
+kagglehub
+tiktoken
+pandas
+numpy
+matplotlib
+tqdm
+tensorflow
+psutil
